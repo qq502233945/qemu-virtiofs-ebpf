@@ -1,0 +1,1 @@
+/home/qs/qemu/tests/tcg/cris/.gdbinit
